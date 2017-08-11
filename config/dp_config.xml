@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <!-- 产品名称-->
+    <name>ipb19864927</name>
+    <!-- 等级-->
+    <level>2</level>
+    <!-- 产品业务类型-->
+    <type>变量</type>
+    <serialcode></serialcode>
+    <code></code>
+    <desc></desc>
+    <essentialPara></essentialPara>
+    <optionalPara></optionalPara>
+    <openType></openType>
+    <isCheckExpired value="true">
+        <key></key>
+        <period></period>
+        <field></field>
+    </isCheckExpired>
+    <ds>
+        <d index="1">
+            <id></id>
+            <desc></desc>
+        </d>
+        <d index="2">
+            <id></id>
+            <desc></desc>
+        </d>
+    </ds>
+    <rule>
+        <r index="1">
+            <id></id>
+            <name></name>
+            <desc></desc>
+        </r>
+        <r index="2">
+            <id></id>
+            <name></name>
+            <desc></desc>
+        </r>
+    </rule>
+</config>

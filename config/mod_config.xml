@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <name></name>
+    <level></level>
+    <type></type>
+    <desc></desc>
+    <serialcode></serialcode>
+    <code></code>
+    <rule>
+        <type></type>
+        <script></script>
+    </rule>
+</config>
